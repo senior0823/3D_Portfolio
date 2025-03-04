@@ -28,9 +28,6 @@ To install Personal portfolio, Follow the simple steps below:
 
 1. Clone the repository using
 
-```
- git clone https://github.com/masudranashawon/proxima-client.git`
-```
 
 2. Install the required dependencies in the directorie by running
 
@@ -50,8 +47,5 @@ npm i
 npm start
 ```
 
-## Link
-
-- [Live Demo](https://masudranashawon.netlify.app/)
 
 ## Thanks for visiting this repository!
