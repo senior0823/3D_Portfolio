@@ -41,7 +41,7 @@ const data = [
       "React.js",
     ],
     liveLink: "https://learnify-pro.vercel.app",
-    fullStackLink: "https://github.com/masudranashawon/learnify",
+    fullStackLink: "https://github.com/Ruslan845/learnify",
     frontEndLink: "",
     backEndLink: "",
   },
