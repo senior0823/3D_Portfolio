@@ -33,7 +33,7 @@ const Navbar = ({ footerNav }) => {
     >
       <div className='logo flex flex-col gap-5'>
         <HashLink smooth to='#home' className='link-item' ref={link1Ref}>
-          {footerNav ? "Go to top" : "Vasya Demianiv"}
+          {footerNav ? "Go to top" : "Ruslan Danyliuk"}
         </HashLink>
         {footerNav && (
           <div className='bg-[#f7f7f7] p-3 rounded-lg' ref={link8Ref}>

@@ -10,16 +10,16 @@ const data = [
   {
     id: 2,
     title: "Telegram",
-    url: "https://instagram.com/masudranashawon786",
+    url: "",
   },
-  { id: 3, title: "Discord", url: "https://twitter.com/MasudRanaShawo1" },
+  { id: 3, title: "Discord", url: "" },
   {
     id: 4,
     title: "LinkedIn",
-    url: "https://www.linkedin.com/in/masudranashawon1/",
+    url: "",
   },
-  { id: 5, title: "GitHub", url: "https://github.com/masudranashawon" },
-  { id: 6, title: "LeetCode", url: "https://leetcode.com/masudranashawon" },
+  { id: 5, title: "GitHub", url: "" },
+  { id: 6, title: "LeetCode", url: "" },
 ];
 
 const Socials = () => {
