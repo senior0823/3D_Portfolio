@@ -33,17 +33,15 @@ const Navbar = ({ footerNav }) => {
     >
       <div className='logo flex flex-col gap-5'>
         <HashLink smooth to='#home' className='link-item' ref={link1Ref}>
-          {footerNav ? "Go to top" : "Ruslan Danyliuk"}
+          {footerNav ? "Go to top" : "Ruslan Danyliuk!"}
         </HashLink>
         {footerNav && (
           <div className='bg-[#f7f7f7] p-3 rounded-lg' ref={link8Ref}>
             <a
-              // href='https://www.trustpilot.com/review/masudranashawon.netlify.app'
               target='_blank'
               rel='noreferrer'
             >
               <img
-                // src='https://upload.wikimedia.org/wikipedia/commons/7/78/Trustpilot_Logo_%282022%29.svg'
                 alt='Trustpilot Logo'
                 className='w-32'
               />

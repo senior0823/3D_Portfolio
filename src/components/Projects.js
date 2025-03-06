@@ -101,7 +101,7 @@ const data = [
     description:
       "Tech Alpha is an online electronic accessories store that offers the latest and greatest electronic accessories. Our website features a clean, modern design, an easy-to-use interface and a robust shopping functionality built using Redux.js. All the product data has been served via JSON server and fetched using Axios.",
     tools: ["React.js", "Tailwind CSS", "Redux.js", "Redux Toolkit", "Axios"],
-    liveLink: "https://tech-alpha-masud.netlify.app",
+    liveLink: "https://tech-alpha.netlify.app",
     fullStackLink: "",
     frontEndLink: "https://github.com/Ruslan845/tech-alpha",
     backEndLink: "https://github.com/Ruslan845/tech-alpha-server",
@@ -116,7 +116,7 @@ const data = [
     description:
       "Foodverse is a recipe web application, where a user can search for a variety of recipes and find the ingredients and quantities needed to make each recipe item. Also, favorite recipe items can be saved in the browser's local storage. It is easy to find different recipes for vegetarians and meat eaters, as well as those who want to lose weight.",
     tools: ["React.js", "React Router", "Tailwind CSS"],
-    liveLink: "https://food-verse-masud.netlify.app/",
+    liveLink: "https://food-verse.netlify.app/",
     fullStackLink: "",
     frontEndLink: "https://github.com/Ruslan845/foodverse",
     backEndLink: "",
